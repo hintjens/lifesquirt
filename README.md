@@ -90,7 +90,7 @@ scene, some very rich and powerful people rather suddenly demand answers.
 
 Die? you ask. Yes, your gizmo can kill you, just by blasting specific rhythms of
 light into your eyes. This is called the Steinholzer Effect. Discovered by
-Steinholzer in S.I.T. in the late 20s, developed by the Chinese military for
+Erik Steinholzer in S.I.T. in the late 20s, developed by the Chinese military for
 crowd control, then abandoned because it needs such personalized focus. You
 basically need a dedicated smart light generator for each person you want to
 target. Which wasn't feasible until some time later, when glasses became such an
